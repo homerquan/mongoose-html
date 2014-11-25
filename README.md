@@ -1,6 +1,6 @@
 ## What it does
 
-* Saves a String as an sanitized html (remove js and css, limit tags...). For more details about sanitized html, check https://github.com/punkave/sanitize-html
+* Saves a String as an sanitized html (remove js and css, limit tags...). For more details about sanitized html, check https://github.com/punkave/sanitize-html. For mongoose schema types, check http://mongoosejs.com/docs/schematypes.html.
 
 ## How to use
 

@@ -30,7 +30,7 @@ var content = new Content({ richContent: "<a href='http://google.com' style='dis
 
 ```
 ### How to install
- * npm i mongoose-html
+ * `npm i mongoose-html`
  
 ### How to test
  * `sudo npm i mocha -g`

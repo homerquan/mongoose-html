@@ -30,8 +30,8 @@ var content = new Content({ richContent: "<a href='http://google.com' style='dis
 
 ```
 ### How to test
-`sudo npm i mocha -g`
-`mocha test`
+ * `sudo npm i mocha -g`
+ * `mocha test`
 
 ### Schema options
 Same as sanitize-html https://github.com/punkave/sanitize-html

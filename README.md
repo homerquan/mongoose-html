@@ -28,6 +28,7 @@ var Content = mongoose.model('Content', ContentSchema);
 
 var content = new Content({ richContent: "<a href='http://google.com' style='display:block'>google</a>" });
 
+```
 ### Schema options
 Same as sanitize-html https://github.com/punkave/sanitize-html
 

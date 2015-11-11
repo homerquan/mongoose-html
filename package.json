@@ -21,12 +21,12 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "devDependencies": {
-    "mocha": "1.9.x",
+    "mocha": "*",
     "should": "*",
-    "mongoose": "3.x"
+    "mongoose": "*"
   },
   "peerDependencies": {
-    "mongoose": "3.x"
+    "mongoose": "4.x"
   },
   "dependencies": {
     "sanitize-html": "^1.4.3"

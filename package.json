@@ -1,6 +1,6 @@
 {
   "name": "mongoose-html",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Adds schema type \"html\" to mongoose to provie sanitized html.",
   "main": "index.js",
   "scripts": {
@@ -23,10 +23,10 @@
   "devDependencies": {
     "mocha": "1.9.x",
     "should": "*",
-    "mongoose": "3.x"
+    "mongoose": "5.0.x"
   },
   "peerDependencies": {
-    "mongoose": "3.x"
+    "mongoose": "5.0.x"
   },
   "dependencies": {
     "sanitize-html": "^1.4.3"
